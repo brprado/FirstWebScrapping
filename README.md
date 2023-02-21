@@ -1,8 +1,6 @@
 # Web Scrapping
 
 Projeto de web scrapping feito em ambiente controlado para práticas
-
-| :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Web Scrapping (Coleta de dados)**
 | :label: Tecnologias | Python, BeautifulSoup
