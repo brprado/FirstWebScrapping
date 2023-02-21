@@ -1,10 +1,10 @@
 # Web Scrapping
+Web scrapping usando Python e a biblioteca BeatifulSoup
 
-Projeto de web scrapping feito em ambiente controlado para práticas
-| -------------  | --- |
 | :placard: Vitrine.Dev |     |
-| :sparkles: Nome        | **Web Scrapping (Coleta de dados)**
-| :label: Tecnologias | Python, BeautifulSoup
+| -------------  | --- |
+| :sparkles: Nome        | **Web Scrapping: Coletando dados na web**
+| :label: Tecnologias | Python, BeatifulSoup)
 | :rocket: URL         | https://github.com/brprado/FirstWebScrapping
 
 
